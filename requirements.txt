@@ -6,6 +6,6 @@ pytest-cov>=4.0.0
 black>=22.0.0
 isort>=5.10.0
 mypy>=0.950
-logging>=0.5.1.2
+logging
 setuptools>=65.0.0
 wheel>=0.38.0
